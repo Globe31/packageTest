@@ -1,0 +1,19 @@
+{
+  "name": "@code-with-hassan/packagetest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Your package description",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Globe31/packageTest.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "homepage": "https://github.com/Globe31/packageTest/blob/main/README.md",
+  "author": "Code-With-Hassan",
+  "license": "MIT"
+}
